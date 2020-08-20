@@ -1,8 +1,5 @@
 # leetcode 938 - Range Sum of BST
-
-## Java
-```Java
-```
+ 
 
 ## C#
 #### Recursive Implementation
